@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Emily Williams",
+    "gender": "Female",
+    "age": 18,
+    "image": "https://res.cloudinary.com/dfo4alc3w/image/upload/v1728717952/Layer_8_2x_gpn4mh.png"
+  },
+  {
+    "name": "Ryan Johnson",
+    "gender": "Male",
+    "age": 45,
+    "image": "https://res.cloudinary.com/dfo4alc3w/image/upload/v1728717952/Layer_1_2x_dk5ann.png"
+  },
+  {
+    "name": "Brandon Mitchell",
+    "gender": "Male",
+    "age": 36,
+    "image": "https://res.cloudinary.com/dfo4alc3w/image/upload/v1728717951/Layer_3_jdi9pk.png"
+  },
+  {
+    "name": "Jessica Taylor",
+    "gender": "Female",
+    "age": 28,
+    "highlighted": true,
+    "image": "https://res.cloudinary.com/dfo4alc3w/image/upload/v1728717953/Layer_2_zz4udd.png"
+  },
+  {
+    "name": "Samantha Johnson",
+    "gender": "Female",
+    "age": 56,
+    "image": "https://res.cloudinary.com/dfo4alc3w/image/upload/v1728717951/Layer_6_2x_e6gr0u.png"
+  },
+  {
+    "name": "Ashley Martinez",
+    "gender": "Female",
+    "age": 54,
+    "image": "https://res.cloudinary.com/dfo4alc3w/image/upload/v1728717951/Layer_12_2x_wtrlbc.png"
+  },
+  {
+    "name": "Olivia Brown",
+    "gender": "Female",
+    "age": 32,
+    "image": "https://res.cloudinary.com/dfo4alc3w/image/upload/v1728717951/Layer_10_2x_folznc.png"
+  },
+  {
+    "name": "Tyler Davis",
+    "gender": "Male",
+    "age": 19,
+    "image": "https://res.cloudinary.com/dfo4alc3w/image/upload/v1728717950/Layer_9_2x_n5swlj.png"
+  },
+  {
+    "name": "Kevin Anderson",
+    "gender": "Male",
+    "age": 30,
+    "image": "https://res.cloudinary.com/dfo4alc3w/image/upload/v1728717951/Layer_4_2x_jb74vu.png"
+  },
+  {
+    "name": "Dylan Thompson",
+    "gender": "Male",
+    "age": 36,
+    "image": "https://res.cloudinary.com/dfo4alc3w/image/upload/v1728717951/Layer_5_cqbebt.png"
+  },
+  {
+    "name": "Nathan Evans",
+    "gender": "Male",
+    "age": 58,
+    "image": "https://res.cloudinary.com/dfo4alc3w/image/upload/v1728717950/Layer_7_2x_o1mhwa.png"
+  },
+  {
+    "name": "Mike Nolan",
+    "gender": "Male",
+    "age": 31,
+    "image": "https://res.cloudinary.com/dfo4alc3w/image/upload/v1728717950/pexels-photo-1222271_2x_xyrc6x.png"
+  }
+]
